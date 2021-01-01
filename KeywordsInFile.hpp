@@ -29,5 +29,3 @@ public:
 
 //stream insertion overloading
 ostream &operator<<(ostream &output, const KeywordsInFile& rhs);
-
-#include "KeywordsInFile.cpp"
